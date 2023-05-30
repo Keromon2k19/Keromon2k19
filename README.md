@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 <div style="display: flex; gap: 10px;">
-  <a href="https://linkedin.com/in/joaquin-haro-filippon-a05967191">
+  <a href="https://linkedin.com/in/joaquin-haro-filippon-a05967191" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:joaquinharofilippon@gmail.com">
