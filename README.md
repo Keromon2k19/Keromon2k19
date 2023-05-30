@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joaquin Haro Filippon</h1>
 <h3 align="center">A passionate Salesforce Administrator/Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keromon2k19&label=Profile%20views&color=0e75b6&style=flat" alt="keromon2k19" /> </p>
+- 📫 How to reach me **Email:joaquinharofilippon@gmail Linkedin:https://www.linkedin.com/in/joaquin-haro-filippon-a05967191/**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keromon2k19" alt="keromon2k19" /></a> </p>
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing](https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joaquin-haro-filippon-a05967191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaquin-haro-filippon-a05967191/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
