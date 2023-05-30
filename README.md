@@ -11,7 +11,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-haro-filippon-a05967191) 
 
-<a href="joaquinharofilippon@gmail.com">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
+<a href="mailto:joaquinharofilippon@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 
 # 💻 Tech Stack:
