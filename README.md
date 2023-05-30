@@ -3,9 +3,9 @@
 
 - 📫 How to reach me **joaquinharofilippon@gmail.com**
 
-- 📄 Know more about me, here is my resume:<i class="fa-duotone fa-file" style="--fa-primary-color: #000000; --fa-secondary-color: #71c4f0;"></i>
-- <a href="https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing" target="_blank">
-  <img src="https://example.com/document-icon.png" alt="Resume">
+- 📄 Know more about me, here is my resume:
+<a href="https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing" target="_blank">
+  <i class="fa-duotone fa-file" style="--fa-primary-color: #000000; --fa-secondary-color: #71c4f0;"></i>
 </a>
 
 
