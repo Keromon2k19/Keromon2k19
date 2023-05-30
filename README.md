@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin Haro Filippon</h1>
 <h3 align="center">A passionate Salesforce Administrator/Developer</h3>
 
-- 📫 How to reach me **Email:joaquinharofilippon@gmail Linkedin:https://www.linkedin.com/in/joaquin-haro-filippon-a05967191/**
+- 📫 How to reach me **joaquinharofilippon@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing](https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing)
 
