@@ -3,7 +3,11 @@
 
 - 📫 How to reach me **joaquinharofilippon@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing](https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing)
+- 📄 Know about my experiences, here is my resume:
+- <a href="https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing" target="_blank">
+  <img src="https://example.com/document-icon.png" alt="Resume">
+</a>
+
 
 # 💫 About Me:
 🔭 I’m a passionate Salesforce Administrator/Developer<br>🤝 Looking for my first job in IT<br>🌱 Currently studying for Salesforce Associate certificate.<br>
