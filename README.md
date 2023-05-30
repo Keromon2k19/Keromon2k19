@@ -3,13 +3,13 @@
 
 
 - 📄 Know more about me, here is my <a href="https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing" target="_blank">
-  Resume
+  Resume.
 </a>
 
 
 
 # 💫 About Me:
-🔭 I’m a passionate Salesforce Administrator/Developer<br>🤝 Looking for my first job in IT<br>🌱 Currently studying for Salesforce Associate certificate.<br>
+🔭 I’m a passionate Salesforce Administrator/Develope.r<br>🤝 Looking for my first job in IT.<br>🌱 Currently studying for Salesforce Associate certificate.<br>
 
 ## 🌐 Socials:
 <div style="display: flex; gap: 10px;">
