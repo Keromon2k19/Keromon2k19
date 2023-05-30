@@ -9,7 +9,7 @@
 🔭 I’m a passionate Salesforce Administrator/Developer<br>🤝 Looking for my first job in IT<br>🌱 Currently studying for Salesforce Associate certificate.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-haro-filippon-a05967191) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-haro-filippon-a05967191) 
 
 <a href="mailto:joaquinharofilippon@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
