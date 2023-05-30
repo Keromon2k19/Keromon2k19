@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Salesforce Administrator/Developer</h3>
 
 
-- 📄 Know more about me, here is my resume:
-<a href="https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing" target="_blank">
-  <i class="fa-duotone fa-file" style="--fa-primary-color: #000000; --fa-secondary-color: #71c4f0;"></i>
+- 📄 Know more about me, here is my <a href="https://docs.google.com/document/d/1Vjwo_G_696f3pLJWkeD-L0qqA8TO4lVstl4TpxvuLxg/edit?usp=sharing" target="_blank">
+  Resume
 </a>
+
 
 
 # 💫 About Me:
